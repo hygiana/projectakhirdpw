@@ -1,0 +1,26 @@
+body{
+    height: 100%;
+    background-color: rgb(255, 255, 255) !important;
+    font-family: 'Poppins';
+    width: 100%;
+    float: none;
+}
+
+i{
+    color: #0B9EA3;
+}
+.bayam{
+    background-color: #F0AA71;
+}
+
+footer{
+    width: auto;
+    background-color: #0998e7;
+    list-style-type: none;
+    font-size: 20px;
+    font-family: Poppins;
+    color: #ffffff;
+    }
+.footer{
+    justify-content: right;
+}

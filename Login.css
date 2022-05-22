@@ -1,0 +1,42 @@
+body{
+    height: 100%;
+    background-color: rgb(255, 255, 255) !important;
+    font-family: 'Poppins';
+}
+
+.global-container{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+}
+
+.login-form{
+    width: 350px;
+    height: 500px;
+    padding: 20px;
+    background-color: #0B9EA3 !important;
+
+}
+
+.card-title{
+    font-weight: 700;
+    padding-top: 20px;
+}
+
+
+.forget-link{
+    color: #2914AC;
+}
+.lima{
+    color: #2914AC;
+}
+
+.enam{
+    color: #2914AC;
+}
+
+@font-face { font-family: Delicious; src: url('.otf'); }
+
+
